@@ -1,1 +1,1 @@
-# dailytimesai.github.io
+daily x ai blog everyday
