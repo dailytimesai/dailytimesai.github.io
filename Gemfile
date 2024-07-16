@@ -1,8 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
 
-gem "jekyll"
-gem "minima"
-gem "jekyll-feed"
-gem "jekyll-seo-tag"
-gem "jekyll-paginate"
-gem "minima"
+gem "webrick"
