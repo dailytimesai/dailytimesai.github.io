@@ -2,7 +2,7 @@
 layout: post
 title: "第 3 篇blog"
 date: 2024-07-13
-image: /assets/images/123.jpg
+image: /assets/images/windows-update.jpg
 ---
 
    # Welcome to Daily Times AI
