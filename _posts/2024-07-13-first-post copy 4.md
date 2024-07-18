@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Windows 自动更新永久禁止！"
+title: "第 05 篇blog！"
 date: 2024-07-15
-image: /assets/images/windows-update.jpg
+image: /assets/images/125.jpg
 ---
 
    # Welcome to Daily Times AI
