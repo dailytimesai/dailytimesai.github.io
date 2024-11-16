@@ -3,16 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-11-14T14:27:23-05:00</lastmod>
+    <lastmod>2024-11-16T16:15:44-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/2024/personal-video/</loc>
-    <lastmod>2024-11-14T14:27:23-05:00</lastmod>
+    <loc>http://localhost:1313/post/2024/hugo_skeleton_theme_setup_guide/</loc>
+    <lastmod>2024-11-16T16:15:44-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-16T16:15:44-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/post/2024/personal-video/</loc>
     <lastmod>2024-11-14T14:27:23-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

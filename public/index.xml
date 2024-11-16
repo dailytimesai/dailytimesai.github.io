@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>dailytimeai@gmail.com (John Liu)</managingEditor>
     <webMaster>dailytimeai@gmail.com (John Liu)</webMaster>
-    <lastBuildDate>Thu, 14 Nov 2024 14:27:23 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 16:15:44 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HugHugo Skeleton Theme Setup Guidee</title>
+      <link>http://localhost:1313/post/2024/hugo_skeleton_theme_setup_guide/</link>
+      <pubDate>Sat, 16 Nov 2024 16:15:44 -0500</pubDate><author>dailytimeai@gmail.com (John Liu)</author>
+      <guid>http://localhost:1313/post/2024/hugo_skeleton_theme_setup_guide/</guid>
+      <description>Prerequisites Latest version of Hugo installed Visual Studio Code installed Basic command line knowledge Method 1: Creating a Project with Theme Directory Step 1: Create New Site # Open PowerShell/Terminal in your desired directory hugo new site skeleton Step 2: Create New Theme # Navigate to your project directory cd skeleton # Create a new theme hugo new theme my-theme Step 3: Configure Theme Open config.</description>
+    </item>
     <item>
       <title>Focus on your peace</title>
       <link>http://localhost:1313/post/2024/personal-video/</link>
