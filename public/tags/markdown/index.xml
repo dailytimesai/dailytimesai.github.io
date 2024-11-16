@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on Times Ai _ 时代 Ai</title>
-    <link>https://dailytimesai.github.io/tags/markdown/</link>
+    <link>http://localhost:1313/tags/markdown/</link>
     <description>Recent content in Markdown on Times Ai _ 时代 Ai</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>dailytimeai@gmail.com (John Liu)</managingEditor>
     <webMaster>dailytimeai@gmail.com (John Liu)</webMaster>
     <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dailytimesai.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Markdown ?</title>
-      <link>https://dailytimesai.github.io/post/2024/markdown/</link>
+      <link>http://localhost:1313/post/2024/markdown/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author>
-      <guid>https://dailytimesai.github.io/post/2024/markdown/</guid>
+      <guid>http://localhost:1313/post/2024/markdown/</guid>
       <description>What is Markdown? Markdown is a lightweight, plain-text formatting language used for creating styled text through simple, readable syntax. Developed by John Gruber in 2004, its goal is to allow writers to format documents without complex code, making it easy to read and edit.</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://dailytimesai.github.io/post/2024/syntax/</link>
+      <link>http://localhost:1313/post/2024/syntax/</link>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author>
-      <guid>https://dailytimesai.github.io/post/2024/syntax/</guid>
+      <guid>http://localhost:1313/post/2024/syntax/</guid>
       <description>Headings To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (h3), use three number signs (e.</description>
     </item>
   </channel>
