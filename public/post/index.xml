@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>dailytimeai@gmail.com (John Liu)</managingEditor>
     <webMaster>dailytimeai@gmail.com (John Liu)</webMaster>
-    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 14:27:23 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Focus on your peace</title>
+      <link>http://localhost:1313/post/2024/personal-video/</link>
+      <pubDate>Thu, 14 Nov 2024 14:27:23 -0500</pubDate><author>dailytimeai@gmail.com (John Liu)</author>
+      <guid>http://localhost:1313/post/2024/personal-video/</guid>
+      <description>Your browser does not support the video tag.&#xD;Here is the description of my first video. I talk about&amp;hellip;</description>
+    </item>
     <item>
       <title>Install Hugo in Windows</title>
       <link>http://localhost:1313/post/2024/install-hugo/</link>
