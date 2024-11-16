@@ -1,4 +1,4 @@
-baseURL = "https://dailytimesai.github.io"
+baseURL = "https://dailytimesai.github.io/"
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 languageCode = "en-us"
