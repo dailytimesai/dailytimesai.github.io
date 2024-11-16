@@ -1,6 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on TimesAi</title><link>https://dailytimesai.github.io/tags/hugo/</link><description>Recent content in Hugo on TimesAi</description><generator>Hugo</generator><language>en-us</language><managingEditor>dailytimeai@gmail.com (John Liu)</managingEditor><webMaster>dailytimeai@gmail.com (John Liu)</webMaster><lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dailytimesai.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Install Hugo in Windows</title><link>https://dailytimesai.github.io/post/2024/install-hugo/</link><pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author><guid>https://dailytimesai.github.io/post/2024/install-hugo/</guid><description>Hugo comes in three versions: Standard, Extended, and Extended/Deploy. The Standard edition covers core functionalities, while Extended adds advanced options, with Extended/Deploy** offering further deployment features.
-Setting Up Your Directories Open File Explorer and create a folder, e.</description></item><item><title>How to use Lightbi theme ?</title><link>https://dailytimesai.github.io/post/2024/use-this-theme/</link><pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author><guid>https://dailytimesai.github.io/post/2024/use-this-theme/</guid><description>In this post, we&amp;rsquo;ll cover how to install Hugo and set up your first website with the Lightbi theme. For detailed steps, refer to Hugo’s quick-start guide.
-Create a New Hugo Site hugo new site &amp;lt;name of site&amp;gt; cd &amp;lt;name of site&amp;gt; git init git submodule add https://github.</description></item><item><title>Features of Lightbi</title><link>https://dailytimesai.github.io/post/2024/features-of-lightbi/</link><pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author><guid>https://dailytimesai.github.io/post/2024/features-of-lightbi/</guid><description>General Three Main Content Sections:
-Blog Notes Collections (Newsletter) Responsive Design:
-Built with a mobile-first approach for seamless viewing on any device. Card-Based Theme:
-Flexible image placement options: Image at the top of the card Image in the middle of the card Image at the bottom of the card No image option Menu Location Indicator:</description></item><item><title>Image Gallery Shortcode</title><link>https://dailytimesai.github.io/post/2024/image-gallery/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author><guid>https://dailytimesai.github.io/post/2024/image-gallery/</guid><description>Experimental featureThis feature is currently in experimental mode, so breaking changes may occur. Please use it carefully.Here’s a custom Hugo shortcode that creates an image gallery in a masonry style using GLightbox, allowing you to specify a folder containing images.</description></item><item><title>Hosting Your Hugo Site on Netlify</title><link>https://dailytimesai.github.io/post/2024/netlify-configuration/</link><pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author><guid>https://dailytimesai.github.io/post/2024/netlify-configuration/</guid><description>Hosting a Hugo site on Netlify is an effective solution for deploying static websites, combining Hugo’s speed with Netlify’s robust features like continuous deployment, a user-friendly dashboard, and advanced build settings.</description></item><item><title>Parameters in Lightbi</title><link>https://dailytimesai.github.io/post/2024/parameters/</link><pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author><guid>https://dailytimesai.github.io/post/2024/parameters/</guid><description>Below is a list of configurable parameters in the Lightbi theme, along with descriptions to help you customize your site effectively. You can be adjust the below parameters in your hugo.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Times Ai _ 时代 Ai</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on Times Ai _ 时代 Ai</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>dailytimeai@gmail.com (John Liu)</managingEditor>
+    <webMaster>dailytimeai@gmail.com (John Liu)</webMaster>
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Hugo in Windows</title>
+      <link>http://localhost:1313/post/2024/install-hugo/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author>
+      <guid>http://localhost:1313/post/2024/install-hugo/</guid>
+      <description>Hugo comes in three versions: Standard, Extended, and Extended/Deploy. The Standard edition covers core functionalities, while Extended adds advanced options, with Extended/Deploy** offering further deployment features.&#xA;Setting Up Your Directories Open File Explorer and create a folder, e.</description>
+    </item>
+    <item>
+      <title>How to use Lightbi theme ?</title>
+      <link>http://localhost:1313/post/2024/use-this-theme/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author>
+      <guid>http://localhost:1313/post/2024/use-this-theme/</guid>
+      <description>In this post, we&amp;rsquo;ll cover how to install Hugo and set up your first website with the Lightbi theme. For detailed steps, refer to Hugo’s quick-start guide.&#xA;Create a New Hugo Site hugo new site &amp;lt;name of site&amp;gt; cd &amp;lt;name of site&amp;gt; git init git submodule add https://github.</description>
+    </item>
+    <item>
+      <title>Features of Lightbi</title>
+      <link>http://localhost:1313/post/2024/features-of-lightbi/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author>
+      <guid>http://localhost:1313/post/2024/features-of-lightbi/</guid>
+      <description>General Three Main Content Sections:&#xA;Blog Notes Collections (Newsletter) Responsive Design:&#xA;Built with a mobile-first approach for seamless viewing on any device. Card-Based Theme:&#xA;Flexible image placement options: Image at the top of the card Image in the middle of the card Image at the bottom of the card No image option Menu Location Indicator:</description>
+    </item>
+    <item>
+      <title>Image Gallery Shortcode</title>
+      <link>http://localhost:1313/post/2024/image-gallery/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author>
+      <guid>http://localhost:1313/post/2024/image-gallery/</guid>
+      <description>Experimental feature&#xD;This feature is currently in experimental mode, so breaking changes may occur. Please use it carefully.&#xD;Here’s a custom Hugo shortcode that creates an image gallery in a masonry style using GLightbox, allowing you to specify a folder containing images.</description>
+    </item>
+    <item>
+      <title>Hosting Your Hugo Site on Netlify</title>
+      <link>http://localhost:1313/post/2024/netlify-configuration/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author>
+      <guid>http://localhost:1313/post/2024/netlify-configuration/</guid>
+      <description>Hosting a Hugo site on Netlify is an effective solution for deploying static websites, combining Hugo’s speed with Netlify’s robust features like continuous deployment, a user-friendly dashboard, and advanced build settings.</description>
+    </item>
+    <item>
+      <title>Parameters in Lightbi</title>
+      <link>http://localhost:1313/post/2024/parameters/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author>
+      <guid>http://localhost:1313/post/2024/parameters/</guid>
+      <description>Below is a list of configurable parameters in the Lightbi theme, along with descriptions to help you customize your site effectively. You can be adjust the below parameters in your hugo.</description>
+    </item>
+  </channel>
+</rss>
