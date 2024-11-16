@@ -1,28 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Shortcodes on TimesAi</title>
-    <link>http://localhost:1313/tags/shortcodes/</link>
-    <description>Recent content in Shortcodes on TimesAi</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>dailytimeai@gmail.com (John Liu)</managingEditor>
-    <webMaster>dailytimeai@gmail.com (John Liu)</webMaster>
-    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Understanding Hugo Shortcodes</title>
-      <link>http://localhost:1313/post/2024/understanding-hugo-shortcodes/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author>
-      <guid>http://localhost:1313/post/2024/understanding-hugo-shortcodes/</guid>
-      <description>Hugo shortcodes are powerful tools for adding custom HTML or other special content within Markdown files without complex code. They enable enhanced flexibility and are a core part of Hugo&amp;rsquo;s functionality, offering reusable snippets for embedding media, custom components, or dynamic content.</description>
-    </item>
-    <item>
-      <title>Lightbi Custom Shortcodes</title>
-      <link>http://localhost:1313/post/2024/custom-shortcodes/</link>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author>
-      <guid>http://localhost:1313/post/2024/custom-shortcodes/</guid>
-      <description>To create your own shortcodes in Hugo, add an HTML file in layouts/shortcodes/. This theme provides the following useful custom shortcodes:&#xA;Info card Displays information in a card format.&#xA;Shortcode {{/* &amp;lt; info_cards header=&amp;#34;lorem-ipsum&amp;#34; title=&amp;#34;What is Lorem Ipsum?</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shortcodes on TimesAi</title><link>https://dailytimesai.github.io/tags/shortcodes/</link><description>Recent content in Shortcodes on TimesAi</description><generator>Hugo</generator><language>en-us</language><managingEditor>dailytimeai@gmail.com (John Liu)</managingEditor><webMaster>dailytimeai@gmail.com (John Liu)</webMaster><lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dailytimesai.github.io/tags/shortcodes/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding Hugo Shortcodes</title><link>https://dailytimesai.github.io/post/2024/understanding-hugo-shortcodes/</link><pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author><guid>https://dailytimesai.github.io/post/2024/understanding-hugo-shortcodes/</guid><description>Hugo shortcodes are powerful tools for adding custom HTML or other special content within Markdown files without complex code. They enable enhanced flexibility and are a core part of Hugo&amp;rsquo;s functionality, offering reusable snippets for embedding media, custom components, or dynamic content.</description></item><item><title>Lightbi Custom Shortcodes</title><link>https://dailytimesai.github.io/post/2024/custom-shortcodes/</link><pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate><author>dailytimeai@gmail.com (John Liu)</author><guid>https://dailytimesai.github.io/post/2024/custom-shortcodes/</guid><description>To create your own shortcodes in Hugo, add an HTML file in layouts/shortcodes/. This theme provides the following useful custom shortcodes:
+Info card Displays information in a card format.
+Shortcode {{/* &amp;lt; info_cards header=&amp;#34;lorem-ipsum&amp;#34; title=&amp;#34;What is Lorem Ipsum?</description></item></channel></rss>
